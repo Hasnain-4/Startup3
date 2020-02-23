@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Startup</string>
+    <string name="textview">WELCOME TO THE TUTORIAL !!</string>
+    <string name="btn1"> LETS BEGIN </string>
+    <string name="textview1">TOPICS !</string>
+    <string name="btn2">INTRODUCTION</string>
+    <string name="btn3">ASYMPTOTIC ANALYSIS</string>
+    <string name="btn4">RECURRENCE</string>
+    <string name="btn5">ANALYSIS OF SORTINGS</string>
+    <string name="btn6">DIVIDE AND CONQUER</string>
+    <string name="btn7">HASHING</string>
+    <string name="btn8">TREE</string>
+    <string name="btn9">DYNAMIC PROGRAMMING</string>
+    <string name="btn10">GREEDY ALGORITHM</string>
+    <string name="btn11">MINIMUM SPANNING TREE</string>
+    <string name="btn12">SHORTEST PATH</string>
+    <string name="btn13">IMPORTANT QUESTIONS</string>
+    <string name="btn14">HOW TO USE</string>
+    <string name="textview3">A number of problems exist with these long swipe-through tutorials:
+A swipe-through screens are road blockers. Swipe-through screens aren’t represent real user interactions with the product, they simply describe how the experience will be. Most users don’t want to read about experience, they want to experience the product.
+Users cannot be expected to read a manual before using a product. People don’t launch an app to spend time learning how to use the interface, all they want is to complete a task in as short an amount of time as possible.
+Provide Contextual Instructions
+Provide guidance as users go
+Up-front tutorials have another usability issue —they require users to work upfront — users have to read all the information and try to commit it to their memory. Even when users decide to dot that, they usually forget everything as soon as they close the overlay (unfortunately, our short-term memory cannot retain very much information).
+
+Don’t force users to remember every available function before they start using the app
+New users don’t sign up for your product because they are excited to learn how your product works; they sign up because they interested in the value that you promise to deliver.
+We know that 90% of knowledge people get is a result of practical experience. That’s why the right way to make users to remember every valuable operation is to make them do it and support users as they use a product.
+A contextual (or just-in-time) onboarding approach is an excellent alternative for up front tutorials. Designers who follow this approach try to provide helpful information at the point of user action: the guidance you offer is specific to the user’s point in the journey. It’s a simple, yet powerful design technique which can be implemented in many different ways:
+Focused Tips. Contextual tips can be found in YouTube app for Android. App minimizes the amount of instructions by focusing users’ attention on a single, primary action. It uses instructional overlay to explain an unfamiliar interaction, but these hints appear on the first launch for new users, one at a time, as the user reaches the relevant section of the app.</string>
+</resources>
