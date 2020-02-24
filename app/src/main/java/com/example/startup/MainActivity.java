@@ -22,27 +22,38 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                openNewActivity();
+                openNewActivity1();
+                //setContentView(R.layout.activity_main2);
             }
         });
 
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                openNewActivity();
+                openNewActivity2();
+                //setContentView(R.layout.activity_main3);
             }
         });
     }
-    public void openNewActivity(){
+    public void openNewActivity1(){
         Intent intent = new Intent(this, Main2Activity.class);
         startActivity(intent);
 
-        Intent intent1 = new Intent(this, Main3Activity.class);
-        startActivity(intent1);
-
-
-
-
-
     }
+
+
+
+        public void openNewActivity2(){
+
+            Intent intent1 = new Intent(this, Main3Activity.class);
+            startActivity(intent1);
+
+
+
+        }
+
+
+
+
+
 }
